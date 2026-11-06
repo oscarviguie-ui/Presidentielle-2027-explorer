@@ -1,7 +1,7 @@
-# Présidentielle 2027 Explorer
+# Présidentielle 2027
 
-The declared candidates in the 2027 French presidential election: proposals across eight issues, how each would be financed and enacted, a source link on every proposal, a head-to-head comparison and poll averages.
+Les candidats déclarés à l'élection présidentielle de 2027 : propositions sur huit thèmes, mise en œuvre et financement, source de chaque mesure, face-à-face et moyennes des sondages.
 
-Live page: https://oscarviguie-ui.github.io/presidentielle-2027-explorer/
+Page en ligne : https://oscarviguie-ui.github.io/presidentielle-2027-explorer/
 
-Snapshot of 6 November 2026.
+Situation au 6 novembre 2026.
